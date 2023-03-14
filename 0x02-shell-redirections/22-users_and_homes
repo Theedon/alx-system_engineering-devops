@@ -1,2 +1,0 @@
-#!/bin/bash
-cut --delimiter ":" --fields 1,6 | sort
